@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_099c941d29a688f348190f2340d1dde364b7d451\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_1f54362c6f85815f34340176fdba68063a599371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_367f00fb83f0efa1d85d9cf33d9f7627594311fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_b044a2c09206033529900ca06434fef5ecfb6f70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0fc4e6b32116d35927168a2ec5730171f9669a71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_f767a4a63d297d97e2547f2ba08d9a7bdb20efb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_0f24db03432ae826390e3695a981fe696a540d1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_2921138e37022c73ab163f4dc269489e06973062\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_66de03cc5746d0c7857821e1910325d5e6dbd4db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8fc809877786a8e4b16644dd44ae06c3785acdd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0a31af741137a7c447ed3872ea4065ece256c818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_2884ba9a5eedd86b01e16536dbe5156f78f2bfa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fe078bfa6727e8167baaa298f9d392d10a101de2">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_825cb7a52a01f9169df76770bcab3d88bb2dd80c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_c306a15caaad8b96750767207e7e256625b56a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f9b3017f164daadf1d338f001fcf2e1955d2d35b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_44800bbb9ab28a4dd75f58817f4e933b1fcfea90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yvett\Documents\Finals\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1edae7f5892124c51aba31bf9b81f410e197a956">
+        <dex dex="C:\Users\yvett\Documents\Finals\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2d1a031d030992d26f407b607bd5d5ef80040ac7\classes.dex" />
+    </item>
+
+</items>
